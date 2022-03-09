@@ -1,10 +1,11 @@
 <template>
-    <h1 class="text-7xl">1999 Championship 🏆</h1><br>
-    <h1 class="text-3xl">MVP: Tim Duncan</h1><br>
-    <h1>San Antonio Spurs (4 - 1) New York Knicks</h1>
-    <h1>Game 1: NYK 77-89 SAS</h1>
-    <h1>Game 2: NYK 67-80 SAS</h1>
-    <h1>Game 3: SAS 81-89 NYK</h1>
-    <h1>Game 4: SAS 96-89 NYK</h1>
-    <h1>Game 5: SAS 78-77 NYK</h1>
+    <div>
+        <input type="text" placeholder="Enter Sentence" class="w-full mt-10 rounded-3xl py-4 text-center">
+    </div>
+    <img src="../assets/yoda2.png" alt="yoda" class="absolute top-64 left-72 w-1/3">
+     <div class="bg-white text-green-500 w-52 h-40 absolute top-64 right-60 p-6 rounded-full">
+            <p>Testsbdbdfbfbfb</p>
+            <p>Testsbdbdfbfbfb</p>
+            <p>Testsbdbdfbfbfb</p>
+        </div>
 </template>
